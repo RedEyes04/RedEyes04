@@ -46,8 +46,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=REDEYES04&theme=react-dark&hide_border=true&area=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=REDEYES04&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=REDEYES04&theme=github_dark" />
 </p>
+
 
 ---
 
